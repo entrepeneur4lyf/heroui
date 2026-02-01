@@ -87,7 +87,7 @@
     "commitlint-plugin-function-rules": "^1.7.1",
     "concurrently": "^7.6.0",
     "cross-env": "^7.0.3",
-    "eslint": "^7.29.0",
+    "eslint": "^9.26.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-typescript": "^12.3.1",
     "eslint-config-prettier": "^8.2.0",
